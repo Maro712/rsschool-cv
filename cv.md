@@ -1,5 +1,5 @@
 
-# Dzianis Arkhireyeu
+# Denis Arkhireyeu
 
 ---
 ### Contacts:
