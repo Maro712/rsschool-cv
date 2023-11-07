@@ -1,5 +1,6 @@
 
 # Dzianis Arkhireyeu
+
 ---
 ### Contacts:
 
@@ -7,6 +8,7 @@
 *  **Email:** denisarkhireev@yandex.by
 *  **Location:** Gomel, Belarus
 *  **Telegram:** @Maro712 
+
 ---
 ### About Me:
 
@@ -33,6 +35,7 @@ alert( result );
 * **University**: Belarusian State University of Informatics and Radioelectronics, 	Faculty of Engineering and Economics
 * **Courses**
     * RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+
 ---
 ### English
 Pre-Intermediate
